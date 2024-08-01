@@ -21,4 +21,4 @@ Tailor your QR codes to match your preferences. Adjust the version, error correc
 Versatile Data Encoding: 
 Encode a wide range of data, from simple text and URLs to more complex information. Whether you're sharing contact details, promotional links, or just a friendly message, this script has you covered.
 
-![download](https://github.com/user-attachments/assets/70104852-75fc-467f-8539-58f3884b12f0)
+              ![download](https://github.com/user-attachments/assets/70104852-75fc-467f-8539-58f3884b12f0)
