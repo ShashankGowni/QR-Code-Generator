@@ -20,3 +20,5 @@ Tailor your QR codes to match your preferences. Adjust the version, error correc
 
 Versatile Data Encoding: 
 Encode a wide range of data, from simple text and URLs to more complex information. Whether you're sharing contact details, promotional links, or just a friendly message, this script has you covered.
+
+https://github.com/ShashankGowni/QR-Code-Generator/issues/1#issue-2441682921
